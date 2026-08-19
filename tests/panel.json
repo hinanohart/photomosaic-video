@@ -1,0 +1,62 @@
+{
+  "drift": [
+    "d55225a55f9a6faf",
+    "d69cab11e4ef2673",
+    "88bc276dd9d8cf66",
+    "ee50f254bac34b91",
+    "9850f81abc847662",
+    "8bf6fd5d3e31d2fe",
+    "1cca0916d0c630fc",
+    "30058429f2618b2d",
+    "b6faa3c1ca1a0e85",
+    "65c3574bdf530bea"
+  ],
+  "fade": [
+    "a3e6ea5ec7dac747",
+    "e344481499581ba8",
+    "3bf55f8be896afa8",
+    "6e3b1e6e32e39ff9",
+    "e12be602995afae1",
+    "0fc829dc3a081f14",
+    "feec152f40190f5f",
+    "27987bf17d1105fb",
+    "a38c0a867532c004",
+    "10d4091518ae30b1"
+  ],
+  "noise": [
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692",
+    "ea25833a6a82e692"
+  ],
+  "pan": [
+    "a27f8b91a89360e2",
+    "68ae82e2676bb268",
+    "a6693099e2285a7d",
+    "e3e4c8c6fb385484",
+    "23496a8f7784d828",
+    "69e818e29862eec3",
+    "9a4bbc14e4fc2470",
+    "3a4d9b0f8ff3c06f",
+    "8cfdfd96793ef192",
+    "1360763763ec42c7"
+  ],
+  "subpix": [
+    "ffeea134aa41aaee",
+    "ffeea134aa41aaee",
+    "c30aa018f8ce74be",
+    "2dc39f1328126f45",
+    "4154bfce6ca7a7cb",
+    "b146d24f11cef847",
+    "85fdb517db2c98fa",
+    "2fb78dd5b148276d",
+    "8ab512a2b9a1f33a",
+    "44bb922911148400"
+  ]
+}
